@@ -1,0 +1,1 @@
+hello {{name}}, welcome to goweb.
